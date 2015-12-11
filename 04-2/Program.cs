@@ -7,7 +7,7 @@ namespace _04_2 {
         static MD5 md5 = MD5.Create();
 
         static void Main(string[] args) {
-            string input = "yzbqklnj";
+            string input = "bgvyzdsv";
             int num = 0;
             string hash = CalculateMD5Hash(input + num);
 

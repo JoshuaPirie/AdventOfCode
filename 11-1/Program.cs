@@ -4,7 +4,7 @@ using System.Text;
 namespace _11_1 {
     class Program {
         static void Main(string[] args) {
-            string input = "cqjxjnds";
+            string input = "hepxcrrq";
 
             string nextPass = NextPass(input);
 

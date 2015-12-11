@@ -4,7 +4,7 @@ using System.Text;
 namespace _10_1 {
     class Program {
         static void Main(string[] args) {
-            string input = "1321131112";
+            string input = "3113322113";
 
             for(int i = 0; i < 40; i++)
                 input = GetLookSay(input);
